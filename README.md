@@ -1,10 +1,8 @@
 [![MasterHead](https://giffiles.alphacoders.com/209/209037.gif)](https://minhaj-313.io)
 <h1 align="center">Hi 👋, I'm Shaikh Minhaj</h1>
 <h3 align="center">I am a Full Stack Developer | Web Developer & Designer.</h3>
-<img align="right" alt"coding" width="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt"coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhaj-313" alt="minhaj-313" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/minhaj_313" target="blank"><img src="https://img.shields.io/twitter/follow/minhaj_313?logo=twitter&style=for-the-badge" alt="minhaj_313" /></a> </p>
 
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaj-313&show_icons=true&locale=en" alt="minhaj-313" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-313&" alt="minhaj-313" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhaj-313" alt="minhaj-313" /></a> </p>
