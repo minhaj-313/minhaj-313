@@ -30,3 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-313&" alt="minhaj-313" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhaj-313" alt="minhaj-313" /></a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/minhaj313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhaj313" /></a></p><br><br>
