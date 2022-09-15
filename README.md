@@ -4,9 +4,6 @@
 <img align="right" alt"coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p>
 
-<h1 align="center">Hi 👋, I'm Shaikh Minhaj</h1>
-<h3 align="center">I am a Full Stack Developer | Web Developer & Designer.</h3>
-
 - 🌱 I’m currently Pursuing **BCA (Final Year)**
 
 - 👨‍💻 My Fiverr Freelancing Services [https://www.fiverr.com/minhaj_313](https://www.fiverr.com/minhaj_313)
