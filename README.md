@@ -33,7 +33,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=minhaj-313&show_icons=true&locale=en"  height="150" width="300" alt="minhaj-313" />
   
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-313&"  height="150" width="300" alt="minhaj-313" /></p>
-  
+  <br>
  <br>
   
 <h3 align="left">Support:</h3>
