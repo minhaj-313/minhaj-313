@@ -42,54 +42,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/minhaj313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhaj313" /></a></p>
-<p><a href="[https://www.buymeacoffee.com/minhaj313](https://paypal.me/minhaj313?country.x=IN&locale.x=en_GB)"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="minhaj313" /></a></p>
+<p><a href="https://paypal.me/minhaj313?country.x=IN&locale.x=en_GB"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="minhaj313" /></a></p>
   <br>
 
 
-
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'rect',
-          color: 'white',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"amount":{"currency_code":"USD","value":1}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
