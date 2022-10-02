@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Minhaj</h1>
 <h3 align="center">I am a Full Stack Developer | Web Developer & Designer | Open Source Contributer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p>
 
 - 🔭 My Personal [Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
 
