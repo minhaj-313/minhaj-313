@@ -40,6 +40,8 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhaj-313" alt="minhaj-313" /></a> </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=minhaj-313&bg_color=000000&color=00ff04&line=0cb800&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/minhaj313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhaj313" /></a></p>
 <p><a href="https://paypal.me/minhaj313?country.x=IN&locale.x=en_GB"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="minhaj313" /></a></p>
