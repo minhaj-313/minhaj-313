@@ -33,7 +33,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=minhaj-313&show_icons=true&locale=en"   height="140" width="280" alt="minhaj-313" />
   
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-313&"   height="140" width="280" alt="minhaj-313" /></p>
-  <br>
+
  <br>
   
  <br>
