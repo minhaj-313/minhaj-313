@@ -47,4 +47,4 @@
   <br>
   
   [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
-  [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
+[![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
