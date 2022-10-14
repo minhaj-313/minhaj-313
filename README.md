@@ -45,5 +45,6 @@
 <p><a href="https://www.buymeacoffee.com/minhaj313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhaj313" /></a></p>
 <p><a href="https://paypal.me/minhaj313?country.x=IN&locale.x=en_GB"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="minhaj313" /></a></p>
   <br>
-  
+    <br>
+      <br>
 [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313))
