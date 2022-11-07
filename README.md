@@ -6,7 +6,7 @@
 
 - 🔭 My Personal [Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
                                                                                    
-- 🌱 I’m currently Pursuing **BCA (Final Year)**       
+- 🌱 I’m currently Pursuing **BCA (Final Year)**        
 
 - 👨‍💻 My Fiverr Freelancing Services [https://www.fiverr.com/minhaj_313](https://www.fiverr.com/minhaj_313)
 
