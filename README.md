@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p> 
 
 - 🔭 My Personal [Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)    
-                                                                                   
+                                                                                     
 - 🌱 I’m currently Pursuing **BCA (Final Year)**        
 
 - 👨‍💻 My Fiverr Freelancing Services [https://www.fiverr.com/minhaj_313](https://www.fiverr.com/minhaj_313)
