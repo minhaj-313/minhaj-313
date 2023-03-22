@@ -76,9 +76,8 @@
 [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
 
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h3>
 
->## ** <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height=40px> Connect with me**:
+>## ** Connect with me**:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height=40px>
 
 <p align="left">
 <a href="https://twitter.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaj_313" height="30" width="40" /></a>
