@@ -20,20 +20,6 @@
 
 - 📄 Know about my experiences [https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf](https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaj_313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaikh-minhaj-softwareengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-minhaj-softwareengineer" height="30" width="40" /></a>
-<a href="https://instagram.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaj_313" height="30" width="40" /></a>
-    <a href="https://codepen.io/minhaj-313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="minhaj-313" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to minhaj313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to minhaj313" height="30" width="40" /></a>
-<a href="https://dribbble.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="minhaj_313" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/minhaj times" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minhaj times" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shaikhumarms999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhumarms999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhaj_313" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shaikhumarms999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaikhumarms999" height="30" width="40" /></a>
-<a href="/https://shaikhminhaj.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shaikhminhaj.blogspot.com/" height="30" width="40" /></a>
-</p>
 
 > **👨‍💻 Languages and Tools**:
 <div align="center">
@@ -88,3 +74,19 @@
     <br>
       
 [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaj_313" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaikh-minhaj-softwareengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-minhaj-softwareengineer" height="30" width="40" /></a>
+<a href="https://instagram.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaj_313" height="30" width="40" /></a>
+    <a href="https://codepen.io/minhaj-313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="minhaj-313" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to minhaj313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to minhaj313" height="30" width="40" /></a>
+<a href="https://dribbble.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="minhaj_313" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/minhaj times" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minhaj times" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shaikhumarms999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhumarms999" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhaj_313" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shaikhumarms999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaikhumarms999" height="30" width="40" /></a>
+<a href="/https://shaikhminhaj.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shaikhminhaj.blogspot.com/" height="30" width="40" /></a>
+</p>
