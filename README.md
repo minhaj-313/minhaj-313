@@ -40,6 +40,9 @@
 <img src="https://github.com/minhaj-313/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+![minhaj-313](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![minhaj-313](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhaj-313&bg_color=000000&color=00ff11&line=39d600&point=ae00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Support:</h3>
