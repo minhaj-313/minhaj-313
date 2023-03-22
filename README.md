@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-313" /> </p>
 
 
-> **🏆 Trophys**:
+>## **🏆 Trophys**:
 
 |![](https://github-profile-trophy.vercel.app/?username=minhaj-313&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
 |---| 
@@ -77,6 +77,9 @@
 
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h3>
+
+>## ** <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height=40px> Connect with me**:
+
 <p align="left">
 <a href="https://twitter.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaj_313" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaikh-minhaj-softwareengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-minhaj-softwareengineer" height="30" width="40" /></a>
