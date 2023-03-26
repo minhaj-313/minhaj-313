@@ -76,7 +76,6 @@
 [![@minhaj313's Holopin board](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
 
 
-
 > ## **Connect with me** :  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=40px>
 
 <p align="left">
