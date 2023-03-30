@@ -64,7 +64,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhaj-313&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhaj-313&theme=chartreuse_dark&utcOffset=8)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhaj-313&bg_color=000000&color=00ff11&line=39d600&point=ae00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhaj-313&bg_color=000000&color=00ff11&line=39d600&point=ae00ff&area=true&hide_border=true)](https://github.com/minhaj-313)
 
 > ## **Support** :
 <p><a href="https://www.buymeacoffee.com/minhaj313"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhaj313" /></a></p>
