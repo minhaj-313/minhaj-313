@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently Pursuing **BCA (Final Year)**
 
-- 👨‍💻 My Fiverr Freelancing Services [https://www.fiverr.com/minhaj_313](https://www.fiverr.com/minhaj_313)
-
 - 📫 How to reach me **shaikhminhaj.dev@gmail.com**
 
 - 📄 Know about my experiences [https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf](https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf)
