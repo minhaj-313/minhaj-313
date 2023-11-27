@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://minhaj-313.io)
 <h1> Hello Fellow, I'm < Shaikh Minhaj / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<h3 align="center">I am a Software Developer | Web Developer & Designer | Open-Source Contributor</h3>
+<h3 align="center">I am Data Science & AI Enthusiast | Web Developer & Designer | Open-Source Contributor</h3>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&color=blueviolet" alt="minhaj-313" /> </p>
 
