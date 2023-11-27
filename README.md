@@ -12,7 +12,7 @@
 
 - 🔭 My Personal [Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
 
-- 🌱 I’m currently Pursuing **BCA (Final Year)**
+- 🌱 I’m currently Pursuing **MCA (First Year)**
 
 - 📫 How to reach me **sdeminhaj@gmail.com**
 
