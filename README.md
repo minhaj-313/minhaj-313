@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sdeminhaj@gmail.com**
 
-- 📄 Know about my experiences [https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf](https://minhaj-313.github.io/My-Portfolio-Website/Docs/Shaikh%20Minhaj%20Resume.pdf)
+- 📄 Know about my experiences [https://minhaj-313.github.io](https://minhaj-313.github.io)
 
 
 > **👨‍💻 Languages and Tools**:
