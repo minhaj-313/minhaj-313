@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://minhaj-313.io)
+[![Matrix SVG](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://minhaj-313.io)
 <h1> Hello Fellow, I'm < Shaikh Minhaj / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <h3 align="center">I am Data Science & AI Enthusiast | Data Analyst </h3>
  
