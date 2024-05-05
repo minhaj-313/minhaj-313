@@ -1,19 +1,49 @@
 [![Matrix SVG](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://minhaj-313.io)
-<h1> Hello Fellow, I'm < Shaikh Minhaj / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
- 
-<h3 align="center">I am Data Science & AI Enthusiast | Data Analyst </h3>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&color=blueviolet" alt="minhaj-313" /> </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h1 align="center">Hi there, I'm Shaikh Minhaj! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50"></h1>
 
-- 🔭 My Personal [Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
+<h3 align="center">Data Analyst | Data Analysis | Data Analytics | Data Cleaning | Data Visualization | Data Storytelling 
+<p align="center">
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=blueviolet" alt="Profile Views">
+</p>
 
-- 🌱 I’m a **BCA Graduate**
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" alt="Divider" height="20" width="100%">
+</p>
 
-- 📫 How to reach me **sdeminhaj@gmail.com**
+### About Me
+I'm Shaikh Minhaj, a dedicated Data Analyst with a relentless passion for transforming raw data into actionable insights. Based in Hyderabad, I am actively seeking opportunities in the field and am open to relocation for the right role.
 
-- 📄 Know about my experiences [https://minhaj-313.github.io](https://minhaj-313.github.io)
+### Key Skills & Expertise
+In my pursuit of excellence, I have honed proficiency in a suite of tools and methodologies essential for effective data analysis:
+- **Tools:** Excel, SQL, Power BI, Python
+- **Analysis:** Data cleaning, processing, visualization
+- **Reporting:** Creating interactive dashboards and reports
+- **Storytelling:** Crafting narratives through data visualization
+- **Insights:** Extracting valuable insights to drive decision-making
+- **Statistics:** Conducting statistical analysis and modeling
+
+### Academic Achievement
+During my academic journey, I consistently excelled, maintaining an A+ grade throughout my BCA program. This achievement underscores my commitment to academic rigor and excellence.
+
+### Continuous Learning & Improvement
+I am a firm believer in the power of continuous learning and improvement. To stay at the forefront of the rapidly evolving data landscape, I am dedicated to ongoing education and skill development.
+
+### Adaptability & Problem-Solving
+My ability to adapt to new challenges and my penchant for solving complex problems enable me to thrive in dynamic environments. I approach each project with a blend of critical thinking, creativity, and meticulous attention to detail.
+
+### Effective Communication & Time Management
+I possess strong communication skills, allowing me to convey complex ideas clearly and concisely. Combined with my exceptional time management abilities, I ensure timely and efficient project delivery.
+
+### Collaboration & Teamwork
+I value collaboration and teamwork, recognizing the synergy that arises from diverse perspectives. I am eager to contribute my expertise to high-performing teams and foster a culture of innovation and excellence.
+
+### Conclusion
+If you are seeking a motivated and results-driven Data Analyst to join your team or wish to explore potential collaborations, I would welcome the opportunity to connect. Please feel free to reach out to me at sdeminhaj@gmail.com.
+
+Thank you for considering my profile. I look forward to the possibility of working together.
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
