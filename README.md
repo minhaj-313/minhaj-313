@@ -1,4 +1,4 @@
-[![Matrix SVG](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://minhaj-313.io)
+[![Matrix SVG](https://media.licdn.com/dms/image/D4E16AQFMQg1K6_zdrQ/profile-displaybackgroundimage-shrink_350_1400/0/1714406492176?e=1720656000&v=beta&t=CTADxJ2b7nqH0AF_Y_CuRcSLDzk-jFWpEle44yZ5z7U)
 
 <h1 align="center">Hi there, I'm Shaikh Minhaj! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50"></h1>
 
