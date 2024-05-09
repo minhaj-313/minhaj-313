@@ -15,6 +15,8 @@
 ### About Me
 I'm Shaikh Minhaj, a dedicated Data Analyst with a relentless passion for transforming raw data into actionable insights. Based in Hyderabad, I am actively seeking opportunities in the field and am open to relocation for the right role.
 
+### [My Portfolio Website](https://minhaj-313.github.io/Shaikh-Minhaj-Portfolio-Website---Data-Analyst/)
+
 ### Key Skills & Expertise
 In my pursuit of excellence, I have honed proficiency in a suite of tools and methodologies essential for effective data analysis:
 - **Tools:** Excel, SQL, Power BI, Python
