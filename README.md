@@ -1,4 +1,4 @@
-![Matrix SVG](https://media.licdn.com/dms/image/D4E16AQFMQg1K6_zdrQ/profile-displaybackgroundimage-shrink_350_1400/0/1714406492176?e=1720656000&v=beta&t=CTADxJ2b7nqH0AF_Y_CuRcSLDzk-jFWpEle44yZ5z7U)
+![Matrix SVG](https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif)
 
 <h1 align="center">Hi there, I'm Shaikh Minhaj! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50"></h1>
 
@@ -12,8 +12,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" alt="Divider" height="20" width="100%">
 </p>
 
-### About Me
-I'm Shaikh Minhaj, a dedicated Data Analyst with a relentless passion for transforming raw data into actionable insights. Based in Hyderabad, I am actively seeking opportunities in the field and am open to relocation for the right role.
+### Shaikh Minhaj
+A dedicated Data Analyst with a relentless passion for transforming raw data into actionable insights. Based in Hyderabad, I excel in leveraging data to drive strategic decisions and optimize performance. Additionally, I am a skilled Web Developer, adept at creating robust and user-friendly websites that enhance user experience and meet business goals.
 
 ### [My Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
 
