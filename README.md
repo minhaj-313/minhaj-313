@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Shaikh Minhaj! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50"></h1>
 
-<h3 align="center">Data Analyst | Data Analysis | Data Analytics | Data Cleaning | Data Visualization | Data Storytelling 
+<h3 align="center">AI-Enabled Data Analyst | Founder @ Synapsium Technologies | Prompt Engineer | Author | Web Development & Digital Solutions Expert | Transforming Data into Actionable Insights for Business Success
 <p align="center">
  <br>
   <img src="https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=blueviolet" alt="Profile Views">
@@ -13,7 +13,7 @@
 </p>
 
 ### Shaikh Minhaj
-A dedicated Data Analyst with a relentless passion for transforming raw data into actionable insights. Based in Hyderabad, I excel in leveraging data to drive strategic decisions and optimize performance. Additionally, I am a skilled Web Developer, adept at creating robust and user-friendly websites that enhance user experience and meet business goals.
+Founder of Synapsium Technologies | A dedicated AI-Enabled Data Analyst passionate about transforming raw data into actionable insights that drive strategic decisions and optimize performance. Based in Hyderabad, I specialize in delivering innovative data solutions and empowering businesses through cutting-edge analytics. Additionally, I am a skilled Web Developer, adept at creating robust, user-friendly websites designed to enhance user experiences and achieve business goals. My mission is to bridge the gap between data, technology, and success.
 
 ### [My Portfolio Website](https://minhaj-313.github.io/My-Portfolio-Website/)
 
