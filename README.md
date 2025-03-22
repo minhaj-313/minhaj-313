@@ -1,6 +1,6 @@
 ![Matrix SVG](https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif)
 
-<h1 align="center">Shaikh Minhaj! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50"></h1>
+<h1 align="center">Shaikh Minhaj</h1>
 
 <h3 align="center">AI-Enabled Data Analyst | Founder @ Synapsium Technologies | Prompt Engineer | Author | Web Development & Digital Solutions Expert | Transforming Data into Actionable Insights for Business Success
 <p align="center">
