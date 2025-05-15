@@ -1,4 +1,5 @@
-![Matrix SVG](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif) 
+![Matrix SVG](https://miro.medium.com/v2/resize:fit:1400/1*xZrSvUrS-6zQQBfevGed2w.gif)
+
 <h1 align="center">Shaikh Minhaj</h1>
 
 # Shaikh Minhaj | Cybersecurity Expert | SOC Analyst | Ethical Hacker | Founder of Synapsium Technologies
@@ -95,7 +96,7 @@ Our team crafts responsive websites, insightful data analytics, compelling brand
 **Founder:** Shaikh Minhaj — Cybersecurity Expert | SOC Analyst | Ethical Hacker | Verified Mentor on Topmate | Author of “100 Ways to Earn with AI” | Open for collaborations and projects.
 
 ---
-
+## **Connect with me** :  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=40px>
 
 📧 **Email:** [shaikhminhajofficial@gmail.com](mailto:shaikhminhajofficial@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/shaikhminhaj](https://linkedin.com/in/shaikhminhaj)  
@@ -103,7 +104,6 @@ Our team crafts responsive websites, insightful data analytics, compelling brand
 🌐 **Company Website:** [synapsiumtechnologies](https://synapsiumtechnologies.tech)
 
 Let’s collaborate and create impactful solutions together!  
-
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -140,10 +140,3 @@ Let’s collaborate and create impactful solutions together!
     <br> 
     <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-> ## **Connect with me** :  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=40px>
-
-<p align="left">
-<a href="https://twitter.com/minhaj_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaj_313" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/minhaj313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-minhaj-softwareengineer" height="30" width="40" /></a>
-</p>
