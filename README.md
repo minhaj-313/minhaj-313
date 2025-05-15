@@ -1,5 +1,4 @@
-![Matrix SVG](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif) ![Matrix SVG](https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif)
-
+![Matrix SVG](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif) 
 <h1 align="center">Shaikh Minhaj</h1>
 
 # Shaikh Minhaj | Cybersecurity Expert | SOC Analyst | Ethical Hacker | Founder of Synapsium Technologies
