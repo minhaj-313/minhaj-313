@@ -4,6 +4,8 @@
 
 # Shaikh Minhaj | Cybersecurity Expert | SOC Analyst | Ethical Hacker | Founder of Synapsium Technologies
 
+![Profile views](https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat)
+
 ## About Shaikh Minhaj
 
 Shaikh Minhaj is a prominent **cybersecurity expert**, **SOC analyst**, **ethical hacker**, and **blue team specialist** recognized for his deep knowledge in cybersecurity defense and threat mitigation. With extensive experience in **security operations**, **threat intelligence**, **incident response**, and **penetration testing**, Minhaj has established himself as a key figure in defending digital environments from advanced cyber threats.
