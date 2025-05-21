@@ -100,7 +100,7 @@ Our team crafts responsive websites, insightful data analytics, compelling brand
 ---
 ## **Connect with me** :  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=40px>
 
-📧 **Email:** [shaikhminhajofficial@gmail.com](mailto:shaikhminhajofficial@gmail.com)  
+📧 **Email:** [shaikhminhajofficial@gmail.com](mailto:cyberwithminhaj@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/shaikhminhaj](https://linkedin.com/in/shaikhminhaj)  
 📸 Instagram: [@minhaj_313](https://instagram.com/minhaj_313)  
 🌐 **Company Website:** [synapsiumtechnologies](https://synapsiumtechnologies.tech)
