@@ -8,7 +8,7 @@
 
 ## About Shaikh Minhaj
 
-Shaikh Minhaj is a prominent **cybersecurity expert**, **SOC analyst**, **ethical hacker**, and **blue team specialist** recognized for his deep knowledge in cybersecurity defense and threat mitigation. With extensive experience in **security operations**, **threat intelligence**, **incident response**, and **penetration testing**, Minhaj has established himself as a key figure in defending digital environments from advanced cyber threats.
+Shaikh Minhaj is a prominent **Cybersecurity Expert**, **Ethical Hacker**, **SOC Analyst**, and **blue team specialist** recognized for his deep knowledge in cybersecurity defense and threat mitigation. With extensive experience in **security operations**, **threat intelligence**, **incident response**, and **penetration testing**, Minhaj has established himself as a key figure in defending digital environments from advanced cyber threats.
 
 Renowned for his sharp analytical abilities and commitment to excellence, Shaikh Minhaj leverages frameworks like **MITRE ATT&CK** and employs advanced SIEM tools to detect and analyze threats in real time. His expertise spans across monitoring, threat hunting, and strategic cyber defense, making him a trusted professional in the global cybersecurity community.
 
