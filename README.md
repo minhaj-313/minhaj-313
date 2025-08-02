@@ -2,15 +2,21 @@
 
 <h1 align="center">Shaikh Minhaj</h1>
 
-# Shaikh Minhaj | Cybersecurity Expert | SOC Analyst | Ethical Hacker | Founder of Synapsium Technologies
+# 🔐 Cybersecurity Specialist | SOC Analyst | Ethical Hacker | Security Researcher | Cyber Defense Practitioner
 
 ![Profile views](https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat)
 
-## About Shaikh Minhaj
+---
 
-Shaikh Minhaj is a prominent **Cybersecurity Expert**, **Ethical Hacker**, **SOC Analyst**, and **blue team specialist** recognized for his deep knowledge in cybersecurity defense and threat mitigation. With extensive experience in **security operations**, **threat intelligence**, **incident response**, and **penetration testing**, Minhaj has established himself as a key figure in defending digital environments from advanced cyber threats.
+## 👨‍💻 About Shaikh Minhaj
 
-Renowned for his sharp analytical abilities and commitment to excellence, Shaikh Minhaj leverages frameworks like **MITRE ATT&CK** and employs advanced SIEM tools to detect and analyze threats in real time. His expertise spans across monitoring, threat hunting, and strategic cyber defense, making him a trusted professional in the global cybersecurity community.
+**Shaikh Minhaj** is a cybersecurity professional from India, known for his dedication to digital defense, ethical hacking, and blue team operations. With a deep command over real-world SOC workflows, threat detection methodologies, and adversary tracking, he contributes to strengthening cyber resilience across networks and applications.
+
+His work spans across **security operations**, **threat intelligence**, **penetration testing**, and **digital forensics**, combining analytical precision with a strong ethical foundation. Minhaj consistently works on staying ahead of cyber threats while building a presence in the cybersecurity research and bug bounty communities.
+
+Whether it's monitoring real-time logs using SIEM, identifying vulnerabilities in web apps, or hunting threats with open-source intel — **Minhaj delivers a well-rounded approach to cybersecurity.**
+
+> 📌 *If you're searching for a cybersecurity portfolio, SOC analyst, or ethical hacker from India — you're in the right place.*
 
 ---
 
@@ -24,8 +30,9 @@ Renowned for his sharp analytical abilities and commitment to excellence, Shaikh
 
 ### Ethical Hacker & Penetration Testing
 
-- Proficient in ethical hacking techniques, vulnerability assessments, and penetration testing across network and application layers.  
+- Proficient in ethical hacking techniques, vulnerability assessments, and penetration testing.  
 - Performs advanced security assessments to identify vulnerabilities and improve organizational security posture.
+- - Web app penetration testing aligned with **OWASP Top 10**
 
 ### Threat Intelligence & Incident Response
 
@@ -53,7 +60,8 @@ Renowned for his sharp analytical abilities and commitment to excellence, Shaikh
 - **MITRE ATT&CK Framework Application**  
 - **Python for Cybersecurity Automation**  
 - **Cloud Security Fundamentals** (AWS, Azure)  
-- **Data Analytics & Visualization for Security Insights**  
+- **Data Analytics & Visualization for Security Insights**
+- **Web Development**
 
 ---
 
@@ -77,25 +85,6 @@ I authored *100 Ways to Earn with AI* eBook by Shaikh Minhaj, a practical guide 
 Shaikh Minhaj is open to **collaborations, freelance projects, and full-time opportunities** in cybersecurity, SOC analysis, ethical hacking, and digital solutions. Whether you need expert advice, hands-on security assessments, or strategic defense planning, Minhaj is ready to deliver tailored, professional services that meet your organizational needs.
 
 Reach out for security projects, digital transformation initiatives, or mentoring sessions. Together, we can build resilient, innovative, and secure digital ecosystems.
-
----
-
-## Founder: Synapsium Technologies
-
-Shaikh Minhaj is the **founder of Synapsium Technologies**, a dynamic digital solutions company specializing in **web development**, **app development**, **digital marketing**, **graphic designing**, **cybersecurity**, and **data analytics**. Under his leadership, Synapsium Technologies is dedicated to providing innovative and reliable technology services that empower businesses to grow securely and efficiently.
-
-
-**Synapsium Technologies** delivers expert digital solutions including **web development**, **data analytics**, **graphic design**, **digital marketing**, and **cybersecurity**. We empower businesses with scalable, SEO-friendly, and secure digital services that drive growth and innovation.
-
-Our team crafts responsive websites, insightful data analytics, compelling brand designs, targeted marketing campaigns, and robust cybersecurity defenses to protect your business.
-
-**Why Choose Us?**  
-- Industry-focused, tailored solutions  
-- Data-driven strategies for measurable ROI  
-- Scalable, future-proof digital services  
-- Client-first collaborative approach  
-
-**Founder:** Shaikh Minhaj — Cybersecurity Expert | SOC Analyst | Ethical Hacker | Verified Mentor on Topmate | Author of “100 Ways to Earn with AI” | Open for collaborations and projects.
 
 ---
 ## **Connect with me** :  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=40px>
