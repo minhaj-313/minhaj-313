@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Shaikh Minhaj
 
-**Shaikh Minhaj** is a cybersecurity professional from India, known for his dedication to digital defense, ethical hacking, and blue team operations. With a deep command over real-world SOC workflows, threat detection methodologies, and adversary tracking, he contributes to strengthening cyber resilience across networks and applications.
+Shaikh Minhaj is an Ethical Hacker and Cybersecurity Professional from India, focused on digital defense, blue team operations, and real-world threat hunting. With a deep command over real-world SOC workflows, threat detection methodologies, and adversary tracking, he contributes to strengthening cyber resilience across networks and applications.
 
 His work spans across **security operations**, **threat intelligence**, **penetration testing**, and **digital forensics**, combining analytical precision with a strong ethical foundation. Minhaj consistently works on staying ahead of cyber threats while building a presence in the cybersecurity research and bug bounty communities.
 
