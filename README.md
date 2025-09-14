@@ -83,7 +83,7 @@ I also apply ethical hacking skills to strengthen security awareness and identif
 
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhaj-313&theme=midnight-purple&show_icons=true&hide=contribs)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=minhaj-313&theme=midnight-purple)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=minhaj-313&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
 
 ---
