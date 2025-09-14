@@ -72,7 +72,7 @@ I also apply ethical hacking skills to strengthen security awareness and identif
 
 ## 🌐 Connect with Me
 
-- 📧 **Email:** [shaikhminhajofficial@gmail.com](mailto:shaikhminhajofficial@gmail.com)  
+- 📧 **Email:** [sdeminhaj@gmail.com](mailto:sdeminhaj@gmail.com)  
 - 🌐 **LinkedIn:** [linkedin.com/in/shaikhminhaj](https://linkedin.com/in/shaikhminhaj)  
 - 🐙 **GitHub:** [github.com/minhaj-313](https://github.com/minhaj-313)  
 - 📸 **Instagram:** [@minhaj_313](https://instagram.com/minhaj_313) 
