@@ -126,7 +126,8 @@ I also apply ethical hacking skills to strengthen security awareness and identif
 
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-[![An image of @minhaj313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj313)]
+
+[![An image of @minhaj313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj313)](https://holopin.io/@minhaj313)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <br> 
