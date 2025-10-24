@@ -1,4 +1,4 @@
-![Matrix GIF](https://miro.medium.com/v2/resize:fit:1400/1*xZrSvUrS-6zQQBfevGed2w.gif)
+![Matrix GIF](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 
 <h1 align="center">Shaikh Minhaj</h1>
 
