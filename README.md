@@ -2,7 +2,7 @@
 
 <h1 align="center">Shaikh Minhaj</h1>
 
-# 🚀 AI-Enabled Data Analyst | Ethical Hacker | Business Intelligence Specialist | Automation & AI Strategist
+# 🚀 Power Platform Developer | Data Analyst & Power Platform Specialist | Business Intelligence & AI Strategist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,39 +10,40 @@
 
 ## 👨‍💻 About Me
 
-I’m **Shaikh Minhaj**, an **AI-enabled Data Analyst and Ethical Hacker** passionate about turning complex data into actionable insights and building secure, data-driven systems. With hands-on expertise in **Python, SQL, Power BI, Excel, and AI automation**, I help organizations make smarter decisions, optimize workflows, and drive measurable growth.  
+I’m **Shaikh Minhaj**, a **Power Platform Developer, Data Analyst, and AI Strategist** passionate about transforming complex data into actionable insights and building efficient, secure, and automated systems. With hands-on expertise in **PowerApps, Power Automate, SharePoint, Python, SQL, Power BI, and Excel**, I help organizations streamline workflows, make smarter decisions, and achieve measurable growth.  
 
-I also apply ethical hacking skills to strengthen security awareness and identify vulnerabilities, making me a versatile tech professional capable of bridging **data analytics and cybersecurity**.  
+I also bring **ethical hacking and cybersecurity awareness** into my work, identifying vulnerabilities and strengthening systems, making me a versatile professional bridging **data analytics, automation, and security**.  
 
->  "Shaikh Minhaj is an AI-enabled Data Analyst, Ethical Hacker, and Business Intelligence Specialist from India. Expert in Python, SQL, Power BI, Excel, AI automation, and ethical hacking techniques."
+> "Shaikh Minhaj is a Power Platform Developer, Data Analyst, and AI Strategist with expertise in PowerApps, Power Automate, SharePoint, Python, SQL, Power BI, Excel, and ethical hacking. He drives data-driven solutions, business intelligence, and automation at scale."
 
 ---
 
 ## 🔑 Core Skills & Expertise
 
+### **Power Platform & Automation**
+- PowerApps, Power Automate, SharePoint Solutions  
+- Workflow Automation & Process Optimization  
+- Low-Code/No-Code Application Development  
+- Business Process Re-engineering  
+
 ### **Data Analytics & Business Intelligence**
 - Data Cleaning, Analysis & Visualization using **Python (Pandas, NumPy, Matplotlib)**, **SQL**, **Excel**, **Power BI**  
-- Predictive Analytics, AI Models & Workflow Automation  
-- Data Storytelling through **interactive dashboards** for strategic decision-making  
+- Predictive Analytics, AI Models & Automated Workflows  
+- Data Storytelling through **interactive dashboards**  
 - Business Research & Performance Insights  
 
-### **Technical & Analytical Skills**
-- Python, SQL, Power BI, Excel, Automation & AI Tools  
-- Data Visualization & Interactive Dashboard Design  
-- Problem Solving, Critical Thinking & Research Skills  
-- AI & Machine Learning Workflow Integration  
+### **Ethical Hacking & Security Awareness**
+- Web Application Security aligned with **OWASP Top 10**  
+- Vulnerability Assessment & Basic Penetration Testing  
+- Applying cybersecurity principles to safeguard applications and workflows  
 
-### **Ethical Hacking & Cybersecurity (Complementary)**
-- Web Application Vulnerability Assessment aligned with **OWASP Top 10**  
-- Network Security & Basic Penetration Testing  
-- Applying ethical hacking skills to improve system security  
 ---
 
 ## 🌟 Key Achievements
 
-- Designed & developed the official website for **MGM College of CS & IT, Nanded**, achieving high Google ranking: [Explore Website](https://www.mgmccsit.ac.in/)  
-- Author of **“100 Ways to Earn with AI”**, helping students, freelancers, and professionals monetize AI ethically: [Get the eBook](https://synapsiumtechnologies.tech/ebook.html)  
-- Verified mentor on **Topmate**, guiding **100+ students and professionals** globally  
+- Designed & developed the official website for **MGM College of CS & IT, Nanded**, achieving top Google rankings: [Explore Website](https://www.mgmccsit.ac.in/)  
+- Author of **“100 Ways to Earn with AI”**, guiding students and professionals to monetize AI ethically: [Get the eBook](https://synapsiumtechnologies.tech/ebook.html)  
+- Verified mentor on **Topmate**, mentoring **300+ students and professionals globally**  
 - Featured **twice in Times Square, New York**, for professional impact and innovation  
 
 ---
@@ -50,25 +51,24 @@ I also apply ethical hacking skills to strengthen security awareness and identif
 ## 📚 Notable Projects
 
 ### MGM College of CS & IT (Live Website)
-- Full-stack web development from scratch, modern UI/UX design  
+- Full-stack development from scratch, modern UI/UX design  
 - High-performance, responsive, and SEO-friendly website  
 - Project link: [MGM College Website](https://www.mgmccsit.ac.in/)
 
 ### 100 Ways to Earn with AI (eBook)
-- 100+ AI-based income opportunities, step-by-step prompts, and practical projects  
+- 100+ AI-driven income opportunities with step-by-step prompts  
 - Focused on AI automation, business insights, and digital skills  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+- **Power Platform:** PowerApps, Power Automate, SharePoint  
 - **Analytics & BI:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel  
-- **AI & Automation:** Predictive Modeling, Workflow Automation, AI Integration  
-- **Ethical Hacking:** Web Security Testing, Vulnerability Assessment  
+- **AI & Automation:** Predictive Modeling, AI Workflow Integration  
+- **Ethical Hacking & Security:** Web Security Testing, Vulnerability Assessment  
 - **Visualization & Reporting:** Dashboard Design, Data Storytelling  
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
-
----
 
 ## 🌐 Connect with Me
 
