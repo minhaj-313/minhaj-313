@@ -75,7 +75,6 @@ I also bring **ethical hacking and cybersecurity awareness** into my work, ident
 - 📧 **Email:** [sdeminhaj@gmail.com](mailto:sdeminhaj@gmail.com)  
 - 🌐 **LinkedIn:** [linkedin.com/in/shaikhminhaj](https://linkedin.com/in/shaikhminhaj)  
 - 🐙 **GitHub:** [github.com/minhaj-313](https://github.com/minhaj-313)  
-- 📸 **Instagram:** [@minhaj_313](https://instagram.com/minhaj_313) 
 
 ---
 
