@@ -2,7 +2,7 @@
 
 <h1 align="center">Shaikh Minhaj</h1>
 
-# 🚀 Power Platform Developer | Data Analyst & Power Platform Specialist | Business Intelligence & AI Strategist
+# 🚀 Data Analyst & Business Analyst | Business Intelligence & AI Strategist | Web Developer | Ethical Hacker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhaj-313&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,21 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I’m **Shaikh Minhaj**, a **Power Platform Developer, Data Analyst, and AI Strategist** passionate about transforming complex data into actionable insights and building efficient, secure, and automated systems. With hands-on expertise in **PowerApps, Power Automate, SharePoint, Python, SQL, Power BI, and Excel**, I help organizations streamline workflows, make smarter decisions, and achieve measurable growth.  
+I’m **Shaikh Minhaj**, a **Data Analyst, and AI Strategist** passionate about transforming complex data into actionable insights. With hands-on expertise in **Microsoft Excel, Python, SQL, Power BI, and Excel**, I help organizations to take smarter decisions, and achieve measurable growth.  
 
 I also bring **ethical hacking and cybersecurity awareness** into my work, identifying vulnerabilities and strengthening systems, making me a versatile professional bridging **data analytics, automation, and security**.  
 
-> "Shaikh Minhaj is a Power Platform Developer, Data Analyst, and AI Strategist with expertise in PowerApps, Power Automate, SharePoint, Python, SQL, Power BI, Excel, and ethical hacking. He drives data-driven solutions, business intelligence, and automation at scale."
+> "Shaikh Minhaj is a AI-Enabled Data Analyst, and AI Strategist with expertise in Python, SQL, Power BI, Excel, and ethical hacking. He drives data-driven solutions, business intelligence, and automation at scale."
 
 ---
 
 ## 🔑 Core Skills & Expertise
-
-### **Power Platform & Automation**
-- PowerApps, Power Automate, SharePoint Solutions  
-- Workflow Automation & Process Optimization  
-- Low-Code/No-Code Application Development  
-- Business Process Re-engineering  
 
 ### **Data Analytics & Business Intelligence**
 - Data Cleaning, Analysis & Visualization using **Python (Pandas, NumPy, Matplotlib)**, **SQL**, **Excel**, **Power BI**  
@@ -63,12 +57,12 @@ I also bring **ethical hacking and cybersecurity awareness** into my work, ident
 
 ## 🛠️ Tools & Technologies
 
-- **Power Platform:** PowerApps, Power Automate, SharePoint  
 - **Analytics & BI:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel  
 - **AI & Automation:** Predictive Modeling, AI Workflow Integration  
 - **Ethical Hacking & Security:** Web Security Testing, Vulnerability Assessment  
 - **Visualization & Reporting:** Dashboard Design, Data Storytelling  
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Power Platform:** PowerApps, Power Automate, SharePoint  
 
 ## 🌐 Connect with Me
 
