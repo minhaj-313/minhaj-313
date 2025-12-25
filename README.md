@@ -14,7 +14,7 @@ I’m **Shaikh Minhaj**, a **Data Analyst, and AI Strategist** passionate about 
 
 I also bring **ethical hacking and cybersecurity awareness** into my work, identifying vulnerabilities and strengthening systems, making me a versatile professional bridging **data analytics, automation, and security**.  
 
-> "Shaikh Minhaj is a AI-Enabled Data Analyst, and AI Strategist with expertise in Python, SQL, Power BI, Excel, and ethical hacking. He drives data-driven solutions, business intelligence, and automation at scale."
+> "Shaikh Minhaj is a AI-Enabled Data Analyst, and AI Strategist with expertise in Python, SQL, Power BI, Excel, and ethical hacking. He drives data-driven solutions, business intelligence, and automation at scale. Currently working as a Data Management Analyst at Deloitte"
 
 ---
 
